@@ -1,6 +1,8 @@
-This is the Example Repo for Westwood High School Tech Starters Club!!!!
+This is the Example Repo for Westwood Tech Starters Club!!!!
 
 
 
 
 YIPPEEE!!
+
+This is Caleb's branch.
